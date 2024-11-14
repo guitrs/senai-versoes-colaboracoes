@@ -1,0 +1,3 @@
+Testando vercionamento Git e Github com VsCode.
+Aprendendo a salvar alterações em arquivos utilizando os comandos pelo terminal git bash no VsCode.
+Comando git add (nome do arquvo)
